@@ -6,13 +6,11 @@ The project focuses on building a responsive and user-friendly interface.
 ## Tech Stack
 - HTML
 - CSS
-- JavaScript
 
 ## My Contribution
 - UI design and layout
 - Implemented frontend components
 - Styling using CSS
-- Assisted in JavaScript functionality
 
 ## Features
 - Responsive design
